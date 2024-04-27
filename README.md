@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/yxc0cfdilgvbgey7?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ajs-unit-tests)
+
 ## Важно:
 1. ESLint не должен выдавать ошибок.
 2. Jest должен обеспечивать 100% покрытие по строкам для тестируемых функций.
